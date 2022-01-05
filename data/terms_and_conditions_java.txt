@@ -43,6 +43,9 @@ Rejection by the Owner of the Extension of Time will constitute a Dispute which 
 Where an amount is claimed by the Builder pursuant to this clause the Builder will also  
   be entitled to the Builder’s Margin.
 21. 
+Where an amount is claimed by the Builder pursuant to this clause the Builder will also  
+  be entitled to the Builder’s Margin.
+21. 
 Upgrading from “builders range” selections will  
   incur additional cost to the Owner and the Builder does not usually buy the higher end   
   product at the same discounted rate.
@@ -82,6 +85,10 @@ Description Supplied by Date Expiry Date
 The Owner must provide the Builder with written evidence of the ability to pay the   
   Contract Price within 7 (seven) Days of execution of the Contract.
   
+Where the Owner rejects the Extension of Time, and the cause of the delay is due to an  
+  event mentioned in this clause, the Builder is entitled to a fair and reasonable extension  
+  of time.
+  
 Where Hazardous Building Materials and/or Hazardous Substances have been   
   removed:
    (a) it is the Owner’s responsibility to obtain any and all relevant  
@@ -97,6 +104,10 @@ The Builder is not liable to rectify defects which result from the Owner taking
   failed to pay the Final Payment or any other monies due and owing pursuant to the   
   Contract.
  35.7. 
+If the Owner does not consent to this variation in   
+  writing, the Builder will be entitled to terminate the Contract in accordance with   
+  the Contract. 
+4. 
 If the Owner does not consent to this variation in   
   writing, the Builder will be entitled to terminate the Contract in accordance with   
   the Contract. 
@@ -166,6 +177,10 @@ Where the Owner wishes to assign a right or obligation, attached to the notice p
 Note: If not, the Contract is conditional upon you receiving either an insurance  
  policy or a certificate of currency for Domestic Building Insurance.
 
+If the Builder cannot reasonably access the Land for the construction   
+  of the Works, then the Contract will be deemed frustrated and the Builder is entitled to  
+  terminate the Contract.
+  
 If the Builder cannot reasonably access the Land for the construction   
   of the Works, then the Contract will be deemed frustrated and the Builder is entitled to  
   terminate the Contract.
@@ -342,6 +357,9 @@ The Builder must recommence the Works within fourteen (14) Days of the Owner
 Where the Owner fails to duly arrange for inspections resulting in delay   
   the Builder will be entitled to an Extension of Time.
  8.5. 
+Where the Owner fails to duly arrange for inspections resulting in delay   
+  the Builder will be entitled to an Extension of Time.
+ 8.5. 
 “Fixing Stage” means the stage when all internal cladding, architraves, skirting, doors,  
   built-in shelves, baths, basins, troughs, sinks, cabinets and cupboards of a home are   
   fitted and fixed in position.
@@ -411,6 +429,15 @@ The party responsible for obtaining the planning approvals and building permits 
   take all reasonable steps to do so including without limitation giving all necessary   
   documentation to the Relevant Building Surveyor.
  6.4. 
+The Builder is entitled to an Extension of Time where Completion is delayed by one or  
+  more of the following:
+   (a) Inclement Weather and its effect over and above the number of Days   
+    estimated by the Builder in Item 13 of the Particulars;
+   (b) lock outs, strikes or industrial disputes affecting the Works; including without  
+    limitation, the Builder’s employees, or manufacturers and suppliers of   
+    Materials;
+40PAGE Owner(s) Initials                        /                      Builder’s Initial                       
+ 24.5. 
 The   
   estimated duration of the delay must be fair and reasonable in the circumstances.
   
@@ -824,6 +851,8 @@ Refer to clauses 23, 24, 25.2 and 28.5.
 “Progress Payment” means the monies due and payable to the Builder by the Owner   
   for a Progress Claim. 
   
+The Builder is entitled to request from the Owner evidence of the Owner’s ability to pay  
+  the Contract Price at any time during the construction of the Works. 
 The Builder must not demand Final Payment until Completion has been reached.
   
 Where the Owner arranges for any works to be performed which are additional to the   
@@ -1057,6 +1086,22 @@ The Owner is entitled to terminate the Contract where the Builder:
     Tribunal; or
    (i) is otherwise in material breach of Contract.
   
+The Owner is entitled to terminate the Contract where the Builder: 
+   (a) is unable or unwilling to complete the Works or fails to perform or progress  
+    the Works in accordance with the Contract;
+   (b) suspends the construction of the Works otherwise than in accordance with   
+    clause 28;
+   (c) fails to provide Materials that comply with Contract;
+   (d) unreasonably fails to replace or remedy defective Works or Materials;
+   (e) fails to obtain or maintain insurance as required by the Contract;
+   (f) has the Builder’s licence cancelled or suspended;
+   (g) fails to comply with an order or direction issued pursuant to Part IV of the  
+    Domestic Building Contracts Act 1995 or the Relevant Building Surveyor  
+    without reasonable cause; 
+   (h) fails to comply with a stop order of the Victorian Civil and Administrative   
+    Tribunal; or
+   (i) is otherwise in material breach of Contract.
+  
 If the actual cost to the Builder is less than the Provisional Sum allowance, the   
   Contract Price will be reduced by the difference between the Provisional Sum allowed,  
   and the actual cost.
@@ -1130,6 +1175,11 @@ Where the Owner does not identify the boundaries of the Land, the Builder may ob
   accordance with clause 34, or the amount the Builder, where applicable, shall be   
   entitled to recover at the rate specified in Item 23 of the Particulars.
   
+“Liquidated Damages” means the amount which the Owner, where applicable, shall be  
+  entitled to recover at the rate specified in Item 22 of the Particulars determined in   
+  accordance with clause 34, or the amount the Builder, where applicable, shall be   
+  entitled to recover at the rate specified in Item 23 of the Particulars.
+  
 (b) If the day on which any act, matter or thing is to be done under the Contract is  
     not a Business Day, the act, matter or thing must be done on the next   
     Business Day.
@@ -1142,8 +1192,16 @@ Where the Owner fails to respond within seven (7) Days of receipt of the notice 
   clause 14.4, the Builder will be entitled to terminate the Contract in accordance with  
   clause 29.
  14.7. 
+Where the Owner fails to respond within seven (7) Days of receipt of the notice under  
+  clause 14.4, the Builder will be entitled to terminate the Contract in accordance with  
+  clause 29.
+ 14.7. 
 “Builder’s Margin” means the percentage specified in Item 17 of the Particulars.
   
+Where an additional amount could not have   
+    reasonably foreseen, the Builder will also be entitled to the Builder’s Margin.
+33PAGEOwner(s) Initials                        /                      Builder’s Initial                       Owner(s) Initials                        /                      Builder’s Initial                       
+14. 
 Where an additional amount could not have   
     reasonably foreseen, the Builder will also be entitled to the Builder’s Margin.
 33PAGEOwner(s) Initials                        /                      Builder’s Initial                       Owner(s) Initials                        /                      Builder’s Initial                       
@@ -1390,6 +1448,9 @@ The Owner must provide to the Builder written documentation showing the boundari
   of the Land and must erect a sign on the Land showing the Owner’s name and the lot or  
   street number.
  5.3. 
+The Construction Period may be extended when the Builder is entitled to an Extension  
+  of Time pursuant to clause 24.
+ 23.3. 
 If such default continues after fourteen (14) Days of receipt by the Owner of the notice   
   given under clause 29.2, the Builder may terminate the Contract by issuing a further   
   notice by registered post to that effect. 
@@ -1409,6 +1470,12 @@ If such default continues after fourteen (14) Days of receipt by the Owner of th
     191, 192 or 221 of the Building Act 1993 of the functions of a municipal   
     building surveyor, means the authorised building surveyor.
   
+Where the Works have not reached Completion by the end of the Construction Period,  
+  the Owner shall be entitled to recover an amount of Liquidated Damages at the rate   
+  specified in Item 22 of the Particulars from the end of the Construction Period until   
+  Completion or the date that the Owner takes Possession of the Works and the Land,   
+  whichever is earlier.
+ 34.2. 
 The Owner will be responsible to pay for any costs incurred as a result of rectifying any  
   discrepancy, deficiency or ambiguity in a document nominated in clause 3.1, except   
   where that document was prepared by the Builder.
@@ -1422,6 +1489,13 @@ If the actual cost to the Builder is greater than the Provisional Sum allowance,
   excess amount, together with the Builder’s Margin, will be added to the Contract Price,  
   along with the additional GST. 
  27.6. 
+If the Builder suspends the Works pursuant to this clause:
+   (a) the Construction Period will automatically be extended by the number of   
+    Days of the suspension including the number of Days of consequential delays;  
+    and
+   (b) the Builder will be entitled to recover from the Owner any cost, loss, expense  
+    or damages caused by the suspension.
+ 28.6. 
 If the Builder suspends the Works pursuant to this clause:
    (a) the Construction Period will automatically be extended by the number of   
     Days of the suspension including the number of Days of consequential delays;  
@@ -1461,6 +1535,28 @@ The insurance policy under this clause shall be maintained by the Builder from n
   of final inspection.
   
 “Days” means calendar days.
+  
+The Builder is entitled to terminate the Contract if the Owner:
+   (a) defaults in payment of monies payable pursuant to the Contract by the due   
+    date of such payment;
+   (b) fails to provide satisfactory evidence of the ability to pay the Contract Price   
+    including the ability to pay for any variations;
+   (c) fails to provide evidence of title to the Land and boundaries of the Land;
+   (d) fails to obtain necessary permits or approvals; 
+   (e) fails to provide the Builder or persons required to deal with the Builder   
+    access to the Land in relation to the Works;
+   (f) interferes with the construction of the Works;
+   (g) takes Possession of the Land or the Works before the Builder has received   
+    all monies payable for the Final Claim;
+   (h) fails to remedy any breach specified in a notice of suspension of Works within  
+    seven (7) Days of receipt of such notice;
+   (i) fails to provide information required by the Contract including the selection of  
+    Provisional Sums or Prime Cost Items;
+Signature 
+Required
+46PAGE Owner(s) Initials                        /                      Builder’s Initial                       
+   (j) fails to consent to a necessary variation without reasonable cause; or
+   (k) is otherwise in material breach of the Contract.
   
 The Builder is entitled to terminate the Contract if the Owner:
    (a) defaults in payment of monies payable pursuant to the Contract by the due   
@@ -1559,6 +1655,14 @@ The Owner must provide to the Builder within fourteen (14) Days of signing the
  5.2. 
 “GST” means the goods and services tax as provided for by the GST Law.
   
+GUARANTEE
+ 1.1 The Guarantor unconditionally and irrevocably guarantees payment to the Builder of the  
+  Guaranteed Monies.
+ 1.2 For the purposes of clause 1.1, the Guaranteed Monies includes all monies due and   
+  payable under the Contract, and for the avoidance of any doubt, the Guaranteed   
+  Monies include the Contract Price and all debts, losses, payments, damages and other  
+  expenses to which the Builder is entitled (the “Guaranteed Monies”). 
+2. 
 GUARANTEE
  1.1 The Guarantor unconditionally and irrevocably guarantees payment to the Builder of the  
   Guaranteed Monies.
@@ -1796,6 +1900,18 @@ Where the Builder terminates the Contract in accordance with this clause, the Bu
     Claim together with the Builder’s Margin, 
    less the value of the remainder of the Works.
  29.6. 
+Where the Builder terminates the Contract in accordance with this clause, the Builder  
+  is entitled to recover from the Owner:
+   (a) all loss, loss of opportunity, damages and expenses incurred by the Builder   
+    resulting from the default which gave rise to the termination;
+   (b) payment in accordance with the Contract for the balance of outstanding   
+    Progress Claims invoiced or variations claimed;
+   (c) the value of Works completed which have not been the subject of a Progress  
+    Claim including incomplete variations, Materials on the Land, and Materials  
+    ordered from suppliers and the expenses incurred since the last Progress   
+    Claim together with the Builder’s Margin, 
+   less the value of the remainder of the Works.
+ 29.6. 
 The Builder is not liable to rectify items which arise from normal wear and tear, or the  
   Owner’s failure to maintain the Works and the Land. 
 )
@@ -1881,6 +1997,10 @@ If either the Owner or the Builder:
   then the other party may terminate the Contract by providing written notice served by   
   registered post.
 33. 
+If the Contract is terminated pursuant to this clause, the Builder is entitled to a   
+  reasonable price for the Works carried out under the Contract to the date the Contract  
+  is terminated.
+ 31.4. 
 If the Contract is terminated pursuant to this clause, the Builder is entitled to a   
   reasonable price for the Works carried out under the Contract to the date the Contract  
   is terminated.
