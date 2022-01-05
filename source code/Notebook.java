@@ -58,7 +58,7 @@ public class Notebook{
       set2.add("required to");
       set2.add("acknowledge");
       set2.add("shall have");
-      set2.add("entiled");
+      set2.add("entitled ");
       set2.add("liable");
       set2.add("obligation");
       set2.add("obligated");
