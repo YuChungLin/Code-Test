@@ -1,7 +1,5 @@
 The Builder and the Owner have previously entered into a major domestic building contract  that is in substantially the same terms for the carrying out of work in relation to the same home  or land; orThe Owner received independent advice from an Australian legal practitioner concerning the  Contract before entering the Contract.
 
-FOOTINGS AND FOUNDATIONS 14.LATENT CONDITIONS 15.
-
 SUSPENSION OF WORKS TERMINATION BY BUILDER TERMINATION BY OWNER DUE TO BUILDER’S DEFAULT SECTION 41 TERMINATION TERMINATION BY EITHER PARTY DUE TO BANKRUPTCY OR LIQUIDATION COMPLETION OF THE WORKS LIQUIDATED DAMAGES DEFECTS LIABILITY PERIOD MAINTENANCE OF THE WORKS DISPUTE RESOLUTION NOTICES GST COPYRIGHT MISCELLANEOUS CHECKLIST FOR THE OWNER INSTRUMENT OF AGREEMENT DEED OF GUARANTEE AND INDEMNITY SCHEDULE 1 – SPECIAL CONDITIONS SCHEDULE 2 – NOTICE OF COMMENCEMENT DATE SCHEDULE 3 – EXTENSION OF TIME NOTICE SCHEDULE 4 – REQUEST FOR VARIATION SCHEDULE 5 – AGENT’S AUTHORITY FORM SCHEDULE 6 – NOTICE OF COMPLETION PRE-INSPECTION SCHEDULE 7 – LIST OF DEFECTS SCHEDULE 8 – NOTICE OF COMPLETION POST INSPECTION 4344454748494951515252525353545658606467697175777981Owner(s) Initials                        /                      Builder’s Initial                       Owner(s) Initials                        /                      Builder’s Initial                       PAGE3
 
 (Mobile): Fax: Email: +NOTE: Where the Owner is a Company, the Deed of Guarantee and Indemnity on page 60   must be signed by the Directors of the company.
@@ -216,8 +214,6 @@ Notwithstanding clause 13.1(b), where the Builder acting reasonably believes  th
 
 Where an additional amount could not have  reasonably foreseen, the Builder will also be entitled to the Builder’s Margin.
 
-LATENT CONDITIONS14.1.
-
 If, during the construction of the Works:(a) Latent Conditions are discovered, or(b) the Builder reasonably believes that the surface or sub-surface conditions of  the Land may not support the Works such that their structural integrity will  be compromised; then the Builder must promptly provide the Owner with notice thereof.
 
 Within three (3) Days of receipt by the Owner of the notice given under clause 14.1,  the Owner must advise the Builder in writing that the Owner wishes to obtain  further Foundations Data, geotechnical reports, soil tests, and/or other reports on  the conditions in the Land and the effect of the conditions on the Plans  and/or Speciﬁcations.
@@ -264,19 +260,13 @@ The Builder shall have access to such services and amenities free of charge.
 
 Where an amount is claimed by the Builder pursuant to this clause the Builder will also  be entitled to the Builder’s Margin.
 
-PAYMENTOWNER’S OBLIGATION TO PAY CONTRACT PRICE21.1.
-
 The Owner must pay to the Builder the Contract Price in accordance with the Contract.
 
 The Owner must provide the Builder with written evidence of the ability to pay the  Contract Price within 7 (seven) Days of execution of the Contract.
 
-CONTINUING OBLIGATION OF ABILITY TO PAY21.3.
-
 The Builder is entitled to request from the Owner evidence of the Owner’s ability to pay  the Contract Price at any time during the construction of the Works.
 
 The Owner will be liable to provide evidence of the ability to pay the full  Contract Price as adjusted in accordance with the Contract.
-
-OWNER’S OBLIGATION TO PAY DEPOSIT21.4.
 
 The Owner must pay the Builder the Deposit as set out in Item 15 of the Particulars  upon the execution of the Contract.
 
@@ -384,8 +374,6 @@ If the Builder suspends the Works pursuant to this clause:(a) the Construction P
 
 Pursuant to section 15 of the Domestic  Building Contracts Act 1995 , the Owner must acknowledge that the Builder has  explained the effect of this clause and place its signature, seal or initials below.
 
-TERMINATION BY BUILDER29.1.
-
 The Builder is entitled to terminate the Contract if the Owner:(a) defaults in payment of monies payable pursuant to the Contract by the due   date of such payment;(b) fails to provide satisfactory evidence of the ability to pay the Contract Price   including the ability to pay for any variations;(c) fails to provide evidence of title to the Land and boundaries of the Land;(d) fails to obtain necessary permits or approvals; (e) fails to provide the Builder or persons required to deal with the Builder  access to the Land in relation to the Works;(f) interferes with the construction of the Works;(g) (h) (i) takes Possession of the Land or the Works before the Builder has received   all monies payable for the Final Claim;fails to remedy any breach speciﬁed in a notice of suspension of Works within  seven (7) Days of receipt of such notice;fails to provide information required by the Contract including the selection of  Provisional Sums or Prime Cost Items;Owner(s) Initials                        /                      Builder’s Initial                       Owner(s) Initials                        /                      Builder’s Initial                       Signature RequiredPAGE45
 
 (j) fails to consent to a necessary variation without reasonable cause; or(k) is otherwise in material breach of the Contract.
@@ -401,8 +389,6 @@ The Builder may not terminate the Contract due to the default of the Owner where
 Where the Builder terminates the Contract in accordance with this clause, the Builder  is entitled to recover from the Owner:(a) (b) (c) all loss, loss of opportunity, damages and expenses incurred by the Builder   resulting from the default which gave rise to the termination;payment in accordance with the Contract for the balance of outstanding  Progress Claims invoiced or variations claimed;the value of Works completed which have not been the subject of a Progress  Claim including incomplete variations, Materials on the Land, and Materials  ordered from suppliers and the expenses incurred since the last Progress  Claim together with the Builder’s Margin, 29.6. less the value of the remainder of the Works.
 
 Section 81 of the Building Act 1993 requires the Owner to notify the  Victorian Building Authority and the Relevant Municipal Authority where the  appointment of a private building surveyor is terminated before Completion , but  it is good practice for the Builder to notify the Relevant Building Surveyor.
-
-TERMINATION BY OWNER DUE TO BUILDER’S DEFAULTBUILDER’S DEFAULT30.1.
 
 The Owner is entitled to terminate the Contract where the Builder: (a) (b) is unable or unwilling to complete the Works or fails to perform or progress  the Works in accordance with the Contract;suspends the construction of the Works otherwise than in accordance with   clause 28;(c) fails to provide Materials that comply with Contract;(d) unreasonably fails to replace or remedy defective Works or Materials;(e) fails to obtain or maintain insurance as required by the Contract;(f) has the Builder’s licence cancelled or suspended;(g) fails to comply with an order or direction issued pursuant to Part IV of the  Domestic Building Contracts Act 1995 or the Relevant Building Surveyor  without reasonable cause; (h) fails to comply with a stop order of the Victorian Civil and Administrative  Tribunal; or(i) is otherwise in material breach of Contract.
 
@@ -422,8 +408,6 @@ If the reasonable cost exceeds the outstanding amount owed to the Builder   purs
 
 (c) (d) (e) 31.
 
-SECTION 41 TERMINATION31.1.
-
 The Owner may also terminate the Contract in accordance with Section 41 of the  Domestic Builder’s Contract Act 1995 if:(a) (b) the Contract Price increases by 15% or more after the Contract was entered  into, excluding any increase in the Contract Price caused by the increase in   the allowance for a Prime Cost Item or Provisional Sum, or a variation  requested by the Owner; orthe Works have not been completed within one and a half (1.5) times the  period by which they were to have been completed, where such period means  the  Construction Period speciﬁed in Item 13 of the Particulars as  extended or increased under clauses 24 or 25; and(c) the reason for the increased time or cost was something that could not have  been reasonably foreseen by the builder on the date the Contract was  executed.
 
 The notice issued by the Owner pursuant to this clause must:(a) be signed by the Owner;(b) state that the Owner is terminating the Contract pursuant to section 41 of the  Domestic Builder’s Contract Act 1995; and(c) specify the grounds relied upon by the Owner.
@@ -431,8 +415,6 @@ The notice issued by the Owner pursuant to this clause must:(a) be signed by the
 If the Contract is terminated pursuant to this clause, the Builder is entitled to a  reasonable price for the Works carried out under the Contract to the date the Contract  is terminated.
 
 (a) (b) (c) payment in accordance with the Contract for the balance outstanding for  Progress Claims invoiced or variations claimed;the value of Works completed which have not been the subject of a Progress  Claim including incomplete variations; andin the alternative to clauses 31.4(a) and 31.4(b), the value of all Works,  Materials and the expenses incurred by the Builder since the last Progress   Claim, together with the Builder’s Margin.
-
-TERMINATION BY EITHER PARTY DUE TO BANKRUPTCY OR LIQUIDATION32.1.
 
 If either the Owner or the Builder:(a) (b) being a natural person, becomes bankrupt, has committed an act of  bankruptcy or a receiver or manager has been appointed in respect of any of  his or her assets or affairs or makes any arrangement or assignment with or  for the beneﬁt of creditors; orbeing a corporation, goes into liquidation or voluntary administration or  is wound up otherwise than for the purpose of reconstruction or any meeting  is called with a view to considering the appointment of a liquidator or  voluntary administrator,then the other party may terminate the Contract by providing written notice served by   registered post.
 
@@ -508,8 +490,6 @@ Where GST payable increases to reﬂect increased costs of labour or Materials o
 
 Pursuant to section 15 of the Domestic Building  Contracts Act 1995, the Owner must acknowledge that the Builder has explained the  effect of this clause and place its signature, seal or initials below.
 
-JOINT AND SEVERAL OBLIGATIONS41.5.
-
 Where more than one person signs the Contract as the Owner, all such persons shall   be jointly and severally liable for the obligations of the Owner pursuant to the Contract.
 
 The Builder shall not be relieved of any obligations pursuant to the Contract and will  remain responsible to the Owner for the construction of the Works.
@@ -557,8 +537,6 @@ The Guarantor agrees that until the Builder has received one hundred cents in th
 SEVERABILITYIf a provision of this Deed of Guarantee and Indemnity is illegal or unenforceable:(a) (b) where possible, the provision is amended by omitting a word or words which  make the provision illegal or unenforceable; andin any other case, the whole provision is omitted, and the remainder of this   Deed of Guarantee and Indemnity continues in force.
 
 SCHEDULE 1 – SPECIAL CONDITIONSPAGE64Owner(s) Initials                        /                      Builder’s Initial
-
-SCHEDULE 1 – SPECIAL CONDITIONS (CONT.)
 
 SCHEDULE 3 – EXTENSION OF TIME NOTICEI hereby give notice to the Owner, pursuant to clause 24 of the Contract that the construction of the Works situated at: Insert address of Landwill be delayed and claim an Extension of Time of the Construction Period.
 
