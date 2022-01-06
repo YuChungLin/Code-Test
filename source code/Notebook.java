@@ -13,7 +13,33 @@ import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
 public class Notebook{
+         final String TERM = "term";
+      final String TERMS = "terms";
+      final String CONDITION = "condition";
+      final String CONDITIONS = "conditions";
+      final String MEANS = "means";
+      final String WILL = "will";
+      final String MUST = "must";
      public static void main(String args[]) throws IOException {
+
+      final String TERM = "term";
+      final String TERMS = "terms";
+      final String CONDITION = "condition";
+      final String CONDITIONS = "conditions";
+      final String MEANS = "means";
+      final String WILL = "will";
+      final String MUST = "must";
+      final String HASTO = "has to";
+      final String REQTO = "required to";
+      final String ACKNW = "acknowledge";
+      final String SHHAVE = "shall have";
+      final String ENT = "entitled";
+      final String LIA = "liable";
+      final String OBL = "obligation";
+      final String OBLIG = "obligated";
+
+
+
       // Read the raw PDF file
       File file = new File("./data/LINCOLN_CONTRACT.pdf");
       PDDocument document = Loader.loadPDF(file);
@@ -47,21 +73,21 @@ public class Notebook{
       // potential words that are associated with terms and conditions.
       Set<String> set2 = new HashSet<String>();
       // add the words to the set
-      set2.add("term");
-      set2.add("terms");
-      set2.add("condition");
-      set2.add("conditions");
-      set2.add("means");
-      set2.add("must");
-      set2.add("will");
-      set2.add("has to");
-      set2.add("required to");
-      set2.add("acknowledge");
-      set2.add("shall have");
-      set2.add("entitled ");
-      set2.add("liable");
-      set2.add("obligation");
-      set2.add("obligated");
+      set2.add(TERM);
+      set2.add(TERMS);
+      set2.add(CONDITION);
+      set2.add(CONDITIONS);
+      set2.add(MEANS);
+      set2.add(WILL);
+      set2.add(MUST);
+      set2.add(HASTO);
+      set2.add(REQTO);
+      set2.add(ACKNW);
+      set2.add(SHHAVE);
+      set2.add(ENT);
+      set2.add(LIA);
+      set2.add(OBL);
+      set2.add(OBLIG);
 
       List<String> terms_and_conditions = new ArrayList<String>();
 
